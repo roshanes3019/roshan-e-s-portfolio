@@ -2,7 +2,7 @@
 
 A modern, high-performance developer portfolio showcasing full-stack skills, technical training experience, and interactive web applications.
 
-- **Live site**: https://YOUR-SITE-URL/
+- **Live site**: https://my-portfolio-chi-one-14.vercel.app
 
 ## Tech Stack
 - **Framework & Build**: React 19, Vite
